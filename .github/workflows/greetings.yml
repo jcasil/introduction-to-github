@@ -14,3 +14,5 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "Message that will be displayed on users' first issue"
         pr-message: "Message that will be displayed on users' first pull request"
+        pr-message: "Message that will be displayed on users' second pull request"
+        
